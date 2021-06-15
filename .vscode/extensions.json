@@ -1,0 +1,30 @@
+{
+    "recommendations": [
+        "eliverlara.andromeda",
+        "jeff-hykin.better-cpp-syntax",
+        "ms-dotnettools.csharp",
+        "twxs.cmake",
+        "ms-vscode.cmake-tools",
+        "wesbos.theme-cobalt2",
+        "formulahendry.code-runner",
+        "equinusocio.vsc-community-material-theme",
+        "cschlosser.doxdocgen",
+        "github.vscode-pull-request-github",
+        "pawelborkar.jellyfish",
+        "ms-toolsai.jupyter",
+        "ritwickdey.liveserver",
+        "pkief.material-icon-theme",
+        "equinusocio.vsc-material-theme",
+        "equinusocio.vsc-material-theme-icons",
+        "sdras.night-owl",
+        "ms-python.vscode-pylance",
+        "njpwerner.autodocstring",
+        "kevinrose.vsc-python-indent",
+        "ahmadawais.shades-of-purple",
+        "johnpapa.winteriscoming",
+        "formulahendry.auto-rename-tag",
+        "aaron-bond.better-comments",
+        "2gua.rainbow-brackets",
+        "github.github-vscode-theme"
+    ]
+}
